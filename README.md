@@ -9,6 +9,8 @@ I enjoy making apps, working on backend development, and currently learning fron
 - Python, Java, C#, and Swift 🐍
 - Windows & MacOS 💻
 
+- HTML, CSS & JavaScript ⏳
+
 ## Hobbies 
 - Chess ♜
 - Bowling 🎳
