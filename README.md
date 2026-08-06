@@ -8,7 +8,8 @@ I enjoy making apps, working on backend development, and currently learning fron
 
 - Python, Java, C#, and Swift 🐍
 - Windows & MacOS 💻
-
+- Flutter
+- Firebase
 - HTML, CSS & JavaScript ⏳
 
 ## Hobbies 
