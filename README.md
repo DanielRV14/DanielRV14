@@ -2,16 +2,16 @@
 
 I'm Daniel
 
-I enjoy making apps, working on backend development, and currently learning frontend development
+I enjoy making apps, working on backend development, and currently learning frontend development 🧠
 
 ## Tools & Tech
 
-- Python, Java, C#, and Swift
-- Windows & MacOS
+- Python, Java, C#, and Swift 🐍
+- Windows & MacOS 💻
 
 ## Hobbies 
-- Chess
-- Bowling
+- Chess ♜
+- Bowling 🎳
 
 <!--
 **DanielRV14/DanielRV14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
