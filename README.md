@@ -9,7 +9,7 @@ I enjoy making apps, working on backend development, and currently learning fron
 - Python, Java, C#, and Swift
 - Windows & MacOS
 
-## Hobbies Outside of Coding
+## Hobbies 
 - Chess
 - Bowling
 
